@@ -1,0 +1,6 @@
+{
+  "port": 3004,
+  "jwtSecret": "gor-mern-project",
+  "mongoUri": "mongodb+srv://gor:qwertygor@cluster0.v2n9z.mongodb.net/todos",
+  "baseUrl": "http://localhost:3004"
+}

@@ -1,0 +1,19 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+.btn.blue.darken-4.login{
+    margin-right: 10px;
+}
+input.black.input{
+    border-bottom: 1px solid white !important;
+    box-shadow: 0 1px 0 0 white !important;
+}
+input.black.input +label{
+    color: white !important;
+}
+input.white.input:focus{
+    border-bottom: 1px solid white !important;
+    box-shadow: 0 1px 0 0 white !important;
+}
+input.white.input:focus+label{
+    color: black !important;
+}
